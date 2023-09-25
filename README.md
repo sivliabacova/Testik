@@ -1,2 +1,3 @@
 # Testik
-Testik readme
+Testik readme file
+Writing about repository
